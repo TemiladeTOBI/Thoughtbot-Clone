@@ -1,0 +1,12 @@
+span.headerbutton {
+    /* border: 2.5px solid dodgerblue; */
+    /* margin: 1%; */
+    /* width: fit-content; height: fit-content; */
+}
+
+
+
+#thoughtlogospan {
+    /* border: 2.5px solid dodgerblue; */
+    /* width:max-content; */
+}
